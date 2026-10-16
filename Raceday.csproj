@@ -9,10 +9,10 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <Compile Remove="Raceday.Test\**" />
-	  <Content Remove="Raceday.Test\**" />
-	  <EmbeddedResource Remove="Raceday.Test\**" />
-	  <None Remove="Raceday.Test\**" />
+	  <Compile Remove="Raceday.Tests\**" />
+	  <Content Remove="Raceday.Tests\**" />
+	  <EmbeddedResource Remove="Raceday.Tests\**" />
+	  <None Remove="Raceday.Tests\**" />
 	</ItemGroup>
 
 
